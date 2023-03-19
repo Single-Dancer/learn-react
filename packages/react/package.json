@@ -1,0 +1,9 @@
+{
+  "name": "react",
+  "version": "0.0.1",
+  "module": "index.ts",
+  "scripts": {},
+  "dependencies": {
+    "shared": "workspace:1.0.0"
+  }
+}
